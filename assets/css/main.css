@@ -8608,3 +8608,25 @@ body.is-preload .items.onload-fade-in > * > .inner {
 #wrapper.divided > .invert:first-child {
   box-shadow: none !important;
 }
+
+/* Responsive Banner Images */
+
+/* Show desktop banner by default, hide mobile banner */
+.desktop-banner {
+  display: block;
+}
+
+.mobile-banner {
+  display: none;
+}
+
+/* On mobile devices (736px and below), hide desktop banner and show mobile banner */
+@media screen and (max-width: 736px) {
+  .desktop-banner {
+    display: none;
+  }
+
+  .mobile-banner {
+    display: block;
+  }
+}
