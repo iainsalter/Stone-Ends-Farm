@@ -3575,7 +3575,7 @@ body.is-preload .banner.onload-image-fade-in .image img {
 }
 
 .banner.style1 .content {
-  padding: 4rem 4rem 3rem 4rem;
+  padding: 7rem 7rem 5rem 7rem;
   -moz-align-self: center;
   -webkit-align-self: center;
   -ms-align-self: center;
@@ -3654,7 +3654,7 @@ body.is-preload .banner.onload-image-fade-in .image img {
     -webkit-flex-direction: column-reverse;
     -ms-flex-direction: column-reverse;
     flex-direction: column-reverse;
-    text-align: center;
+    text-align: left;
   }
 
   .banner.style1 .content {
@@ -3742,7 +3742,7 @@ body.is-preload .banner.onload-image-fade-in .image img {
 /* Banner (style2) */
 
 .banner.style2 {
-  padding: 4rem 4rem 3rem 4rem;
+  padding: 7rem 7rem 5rem 7rem;
   -moz-align-items: center;
   -webkit-align-items: center;
   -ms-align-items: center;
@@ -3762,7 +3762,7 @@ body.is-preload .banner.onload-image-fade-in .image img {
 }
 
 .banner.style2 .content {
-  padding: 4rem 4rem 3rem 4rem;
+  padding: 7rem 7rem 5rem 7rem;
   position: relative;
   width: 40rem;
   max-width: 100%;
@@ -3902,7 +3902,7 @@ body.is-preload .banner.onload-image-fade-in .image img {
 /* Banner (style3) */
 
 .banner.style3 {
-  padding: 4rem 4rem 3rem 4rem;
+  padding: 7rem 7rem 5rem 7rem;
   -moz-align-items: center;
   -webkit-align-items: center;
   -ms-align-items: center;
@@ -4080,7 +4080,7 @@ body.is-preload .banner.onload-image-fade-in .image img {
 /* Banner (style4) */
 
 .banner.style4 {
-  padding: 4rem 4rem 3rem 4rem;
+  padding: 7rem 7rem 5rem 7rem;
   -moz-align-items: center;
   -webkit-align-items: center;
   -ms-align-items: center;
@@ -4321,7 +4321,7 @@ body.is-preload .banner.onload-image-fade-in .image img {
 /* Banner (style5) */
 
 .banner.style5 {
-  padding: 4rem 4rem 3rem 4rem;
+  padding: 7rem 7rem 5rem 7rem;
   -moz-align-items: center;
   -webkit-align-items: center;
   -ms-align-items: center;
@@ -4935,7 +4935,7 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
 }
 
 .spotlight.style1 .content {
-  padding: 4rem 4rem 3rem 4rem;
+  padding: 7rem 7rem 5rem 7rem;
   -moz-align-self: center;
   -webkit-align-self: center;
   -ms-align-self: center;
@@ -5022,7 +5022,7 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
     -webkit-flex-direction: column-reverse;
     -ms-flex-direction: column-reverse;
     flex-direction: column-reverse;
-    text-align: center !important;
+    text-align: left !important;
   }
 
   .spotlight.style1 .content {
@@ -5079,7 +5079,7 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
 /* Spotlight (style2) */
 
 .spotlight.style2 {
-  padding: 4rem 4rem 3rem 4rem;
+  padding: 7rem 7rem 5rem 7rem;
   -moz-align-items: center;
   -webkit-align-items: center;
   -ms-align-items: center;
@@ -5185,7 +5185,7 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
     -webkit-flex-direction: column-reverse;
     -ms-flex-direction: column-reverse;
     flex-direction: column-reverse;
-    text-align: center !important;
+    text-align: left !important;
   }
 
   .spotlight.style2 .content {
@@ -5253,7 +5253,7 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
 /* Spotlight (style3) */
 
 .spotlight.style3 {
-  padding: 4rem 4rem 3rem 4rem;
+  padding: 7rem 7rem 5rem 7rem;
   -moz-align-items: center;
   -webkit-align-items: center;
   -ms-align-items: center;
@@ -5490,7 +5490,7 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
 /* Spotlight (style4) */
 
 .spotlight.style4 {
-  padding: 4rem 4rem 3rem 4rem;
+  padding: 7rem 7rem 5rem 7rem;
   -moz-align-items: center;
   -webkit-align-items: center;
   -ms-align-items: center;
@@ -5660,7 +5660,7 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
 /* Spotlight (style5) */
 
 .spotlight.style5 {
-  padding: 4rem 4rem 3rem 4rem;
+  padding: 7rem 7rem 5rem 7rem;
   -moz-align-items: center;
   -webkit-align-items: center;
   -ms-align-items: center;
