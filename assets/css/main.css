@@ -8601,3 +8601,21 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+/* === Custom overrides to reduce section height and image stretch === */
+section.banner {
+  padding: 3em 2em !important;
+  min-height: auto !important;
+}
+
+.banner .image img {
+  max-height: 500px;
+  object-fit: cover;
+  width: auto;
+}
+
+.banner .content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
